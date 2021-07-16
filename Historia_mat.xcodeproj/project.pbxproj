@@ -16,8 +16,9 @@
 		CE5E52DF26A1EA73005B8AC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE5E52DD26A1EA73005B8AC6 /* LaunchScreen.storyboard */; };
 		CE5E52EA26A1EA73005B8AC6 /* Historia_matTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E52E926A1EA73005B8AC6 /* Historia_matTests.swift */; };
 		CE5E52F526A1EA73005B8AC6 /* Historia_matUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E52F426A1EA73005B8AC6 /* Historia_matUITests.swift */; };
-		CE65F1BD26A2171D006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1BB26A2171D006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */; };
 		CE65F1BE26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1BC26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf */; };
+		CE65F1C026A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */; };
+		CE65F1C126A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1C326A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,8 +57,9 @@
 		CE5E530226A1EB7E005B8AC6 /* Historia_mat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Historia_mat.entitlements; sourceTree = "<group>"; };
 		CE65F1A426A20F67006AD2BB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
 		CE65F1A526A20F68006AD2BB /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		CE65F1BB26A2171D006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Memorias_24_Encuentro_de_Geometria_y_sus.pdf; path = "../../../DROPBOX RUBY/ACADEMIA/Memorias_24_Encuentro_de_Geometria_y_sus.pdf"; sourceTree = "<group>"; };
 		CE65F1BC26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = MATEMATICAS_I_IV.pdf; path = "../../../DROPBOX RUBY/ACADEMIA/MATEMATICAS_I_IV.pdf"; sourceTree = "<group>"; };
+		CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Memorias_del_20o_Encuentro_de_geometria.pdf; path = "../../../DROPBOX RUBY/ACADEMIA/Memorias_del_20o_Encuentro_de_geometria.pdf"; sourceTree = "<group>"; };
+		CE65F1C226A21A8E006AD2BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Base; path = Base.lproj/Memorias_24_Encuentro_de_Geometria_y_sus.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +111,8 @@
 			isa = PBXGroup;
 			children = (
 				CE65F1BC26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf */,
-				CE65F1BB26A2171D006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */,
+				CE65F1C326A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */,
+				CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */,
 				CE5E530226A1EB7E005B8AC6 /* Historia_mat.entitlements */,
 				CE5E52D026A1EA70005B8AC6 /* AppDelegate.swift */,
 				CE5E52D226A1EA70005B8AC6 /* SceneDelegate.swift */,
@@ -248,8 +251,9 @@
 			files = (
 				CE5E52DF26A1EA73005B8AC6 /* LaunchScreen.storyboard in Resources */,
 				CE5E52DC26A1EA73005B8AC6 /* Assets.xcassets in Resources */,
-				CE65F1BD26A2171D006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */,
+				CE65F1C126A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */,
 				CE65F1BE26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf in Resources */,
+				CE65F1C026A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf in Resources */,
 				CE5E52DA26A1EA70005B8AC6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -330,6 +334,15 @@
 				CE65F1A526A20F68006AD2BB /* es */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		CE65F1C326A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE65F1C226A21A8E006AD2BB /* Base */,
+			);
+			name = Memorias_24_Encuentro_de_Geometria_y_sus.pdf;
+			path = "../../../DROPBOX RUBY/ACADEMIA";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
