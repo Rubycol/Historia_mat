@@ -20,6 +20,8 @@
 		CE65F1C026A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */; };
 		CE65F1C126A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1C326A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */; };
 		CE65F1C526A21B56006AD2BB /* DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc in Resources */ = {isa = PBXBuildFile; fileRef = CE65F1C426A21B56006AD2BB /* DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc */; };
+		CED3086826A2A53400855C39 /* ANALISIS TAREA DERIVADA.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CED3086726A2A53400855C39 /* ANALISIS TAREA DERIVADA.pdf */; };
+		CED3086A26A2A5F700855C39 /* RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf in Resources */ = {isa = PBXBuildFile; fileRef = CED3086926A2A5F700855C39 /* RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +64,8 @@
 		CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Memorias_del_20o_Encuentro_de_geometria.pdf; path = "../../../DROPBOX RUBY/ACADEMIA/Memorias_del_20o_Encuentro_de_geometria.pdf"; sourceTree = "<group>"; };
 		CE65F1C226A21A8E006AD2BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Base; path = Base.lproj/Memorias_24_Encuentro_de_Geometria_y_sus.pdf; sourceTree = "<group>"; };
 		CE65F1C426A21B56006AD2BB /* DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc */ = {isa = PBXFileReference; lastKnownFileType = file; name = DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc; path = "../../../DROPBOX RUBY/ACADEMIA/DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc"; sourceTree = "<group>"; };
+		CED3086726A2A53400855C39 /* ANALISIS TAREA DERIVADA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "ANALISIS TAREA DERIVADA.pdf"; path = "../../../DROPBOX RUBY/ACADEMIA/ANALISIS TAREA DERIVADA.pdf"; sourceTree = "<group>"; };
+		CED3086926A2A5F700855C39 /* RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf"; path = "../../../DROPBOX RUBY/ACADEMIA/RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +116,9 @@
 		CE5E52CF26A1EA70005B8AC6 /* Historia_mat */ = {
 			isa = PBXGroup;
 			children = (
+				CED3086926A2A5F700855C39 /* RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf */,
 				CE65F1BC26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf */,
+				CED3086726A2A53400855C39 /* ANALISIS TAREA DERIVADA.pdf */,
 				CE65F1C326A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf */,
 				CE65F1C426A21B56006AD2BB /* DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc */,
 				CE65F1BF26A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf */,
@@ -256,6 +262,8 @@
 				CE5E52DC26A1EA73005B8AC6 /* Assets.xcassets in Resources */,
 				CE65F1C126A21A8E006AD2BB /* Memorias_24_Encuentro_de_Geometria_y_sus.pdf in Resources */,
 				CE65F1BE26A2171D006AD2BB /* MATEMATICAS_I_IV.pdf in Resources */,
+				CED3086826A2A53400855C39 /* ANALISIS TAREA DERIVADA.pdf in Resources */,
+				CED3086A26A2A5F700855C39 /* RAZON_PROPORCION_PROPORCIONALIDAD_CONFIG (1).pdf in Resources */,
 				CE65F1C026A21A61006AD2BB /* Memorias_del_20o_Encuentro_de_geometria.pdf in Resources */,
 				CE5E52DA26A1EA70005B8AC6 /* Main.storyboard in Resources */,
 				CE65F1C526A21B56006AD2BB /* DESARROLLO_DE_UN_SOPORTE_DIDACTICO_EN_MO.doc in Resources */,
